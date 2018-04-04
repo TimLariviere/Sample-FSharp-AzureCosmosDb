@@ -1,2 +1,4 @@
-# Sample-FSharp-AzureFunctions-AzureCosmosDb
-An F# sample for creating an Azure Function that queries the Graph API of Azure Cosmos Db (both with Cosmos driver and Gremlin.NET driver)
+# Sample-FSharp-AzureCosmosDb
+An F# sample for creating a .NET Core app that queries the Graph API of Azure Cosmos Db (both with Cosmos driver)
+
+Blog post : https://timothelariviere.com/2018/04/04/f-azure-cosmos-db-using-the-graph-api-with-cosmos-db-driver
